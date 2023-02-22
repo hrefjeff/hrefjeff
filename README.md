@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrefjeff
-- 👀 I’m interested in the steamdeck OS
-- 🌱 I’m currently learning Docker
+- 👀 I’m interested in parallel programming (CUDA C++)
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me jeffwayne256@gmail.com
 
