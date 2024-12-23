@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrefjeff
-- 👀 I’m interested in parallel programming (CUDA C++)
-- 🌱 I’m currently learning Kubernetes
+- 👀 I’m interested in Kubernetes
+- 🌱 I’m currently learning parallel programming (CUDA C++)
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me jeffwayne256@gmail.com
 
